@@ -1,0 +1,34 @@
+Atlas Character Abilites:
+---------------------------------------------------
+Passive (Atlas Stones):
+          - Chance to collect Atlas Stone Fragment stacks on Elite kill.
+          - Resets each stage.
+
+Primary (Primordial Fire):
+          - Shoot a primordial energy blast.
+          - Enemies inflicted with primordial burn slowly disintigrate
+             taking damage over time.
+
+Secondary (Universe Crystal):
+           - Shoot out a large Crystal of primordial energy, impaling into
+             the ground and exploding after a 1 second delay inflicting 
+             primordial burn . If impaled in an enemy deal additional 
+             damage on hit
+
+Utility (Ascend):
+          - Blast into the air
+          - If airborne, blast down into the ground, creating a zone of 
+            primordial fire when landing.
+
+Special (Disintegrate):
+          - inflicted enemies are imploded dealing medium
+             damge
+
+Ultimate (GodKing):
+          - x Stacks: Movment buff
+          - x Stacks: Secondary Empowered (Bigger AOE)
+          - x Stacks: Primary Empowered (Becomes AOE.)
+          - x Stacks: Utility Empowered (Bigger Zone)
+          - x Stacks: Devourer of Gods Summon (Will be balanced OL Worm)
+
+-----------------------------------------------------
